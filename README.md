@@ -6,11 +6,11 @@ This repository is composed of the code for Random Forest pipelines and their re
 ### Prerequisites
 
 To run the code:
-1. Set up a conda environment with the help of nki_project.yml file
+1. Set up a conda environment with the help of project.yml file
 
 ```
-conda env create -f nki_project.yml
-conda activate nki_env
+conda env create -f project.yml
+conda activate project
 ```
 
 ### Getting started
@@ -20,7 +20,6 @@ This repository includes two folders:
 1. Pipelines
    * mol_profiles_bin_classification.py 
    * clinical_outcome_bin_classification.py 
-   * Conda environment is in nki_env.yml
   
     1. Prepare a CSV file with desired experiments
 
@@ -37,9 +36,14 @@ This repository includes two folders:
     3. You are now ready to run the script
 
 2. Analysis_of_results
-    
+   1. Functions' files
+    * analysis_of_molprofiles_results.py 
+    * analysis_of_OS_results.py
+   2. Notebooks with created figures
+    * Molecular_profiles_preds.ipynb
+    * OS_preds.ipynb
 
 ***
 
-
 ### Contact
+Aleksandra Shabanova aleksandra.shabanova@helsinki.fi
