@@ -36,9 +36,11 @@ This repository includes two folders:
     3. You are now ready to run the script
 
 2. Analysis_of_results
+   
    1. Functions' files
     * analysis_of_molprofiles_results.py 
     * analysis_of_OS_results.py
+   
    2. Notebooks with created figures
     * Molecular_profiles_preds.ipynb
     * OS_preds.ipynb
