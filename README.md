@@ -3,16 +3,6 @@
 ### About the project
 This repository is composed of the code for Random Forest pipelines and their results' analysis.
 
-### Prerequisites
-
-To run the code:
-1. Set up a conda environment with the help of project.yml file
-
-```
-conda env create -f project.yml
-conda activate project
-```
-
 ### Getting started
 
 This repository includes two folders:
@@ -49,3 +39,6 @@ This repository includes two folders:
 
 ### Contact
 Aleksandra Shabanova aleksandra.shabanova@helsinki.fi
+
+### Availability of pipeline 
+The pipeline will be soon released for public use at farkkilab/FeatX (expected time is Summer 2024) and updated versions can be found there.
